@@ -11,4 +11,9 @@ coverage
 sync2jira.egg-info/
 *venv/
 build/
+*__pycache__*
+xunit-tests.xml
+.coverage
+.tox/*
+htmlcov-py36/*
 fedmsg.d/sync2jira.py
